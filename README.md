@@ -36,30 +36,3 @@ This repository supports a staged academic writing process for AMIA-style litera
 3. Use `section_writing_prompts.md` section-by-section in order.
 4. Review each generated section manually before moving to the next.
 5. Finalize Abstract last, using finalized section openings.
-
-## Prompting Principles Enforced in This Repo
-
-- Use only user-provided evidence.
-- Do not invent citations, metrics, or claims.
-- Omit or hedge weakly supported points (e.g., mark uncertainty where needed).
-- Prefer cross-paper synthesis over paper-by-paper summaries.
-- Keep output aligned to AMIA-style length and tone constraints.
-
-## Recommended Use
-
-These prompts are intended for:
-
-- graduate health informatics coursework,
-- literature review drafting with LLM assistance,
-- transparent human-in-the-loop writing workflows.
-
-They can be adapted to adjacent clinical NLP/ML review topics by replacing the source notes and paper evidence while preserving the workflow structure.
-
-## Notes
-
-- This repository currently emphasizes **prompt assets**, not code.
-- Add your finalized manuscript, references, and evaluation tables separately if you want the repo to serve as a full reproducible writing package.
-
-## Maintainer
-
-- GitHub: [@Ruacha00](https://github.com/Ruacha00)
